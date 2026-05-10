@@ -28,7 +28,7 @@
 ./i.sh stop
 ./mihomo-linux-mipsle-hardfloat -d cfg/
 ```
-2. config.yaml中采用了订阅转换器和免费节点，可以换成你自己的。
+2. ```config.yaml```中采用了订阅转换器和免费节点，可以换成你自己的。
 3. 如果路由器性能较好，可以换用```config0.yaml```，ruleset更全且能定期更新。
 
 ## 参考
