@@ -232,6 +232,7 @@ dns:
     - "+.clientservices.googleapis.com"
     - "+.googleapis.cn"
     - "+.xn--ngstr-lra8j.com"
+    - "*.rockstargames.com"
     - geosite:cn
 sniffer:
   enable: true
